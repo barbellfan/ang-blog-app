@@ -1,5 +1,8 @@
 # AngBlogApp
 
+TutorialsPoint class: Learn Angular from Scratch (2022)
+Example showing how to create a blog app in Angular, starting with the section called "Design The Blog Front End 1 - Preparing"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
 ## Development server
